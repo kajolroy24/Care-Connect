@@ -1,8 +1,8 @@
-Care Connect
-Care Connect
-The E-ART Gallery is an e-commerce website where the admin manages the platform by collecting artwork from local artists and uploading it for sale. Customers can browse the collections and purchase art directly. This platform supports local artists who may not have the resourses ot technical knowledge to manage their own online presence.
+# Care Connect
+## Care Connect
+Care Connect is an web-based platform designed to simplify the process of booking doctor appointments. Built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, this project aims to provide a seamless experience for patients, doctors, and administrators.
 
-Tech Stack
+## Tech Stack
 Frontend : React, Tailwind CSS, Vite
 Backend : Node.js, Express.js
 Database : MongoDB
