@@ -11,7 +11,7 @@ const AdminContextProvider = (props) => {
     const [appointments, setAppointments] = useState([])
     const [dashData, setDashData] = useState(false)
 
-    const backendUrl = "https://care-connect-backend-yv2z.onrender.com"
+    const backendUrl = import.meta.env.VITE_BACKEND_URL
 
     const getAllDoctors = async () => {
 
